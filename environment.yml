@@ -18,4 +18,5 @@ dependencies:
     - r-rgeos
     - r-igraph
     - r-desctools
+    - r-maptools
     - bioconductor-ebimage
